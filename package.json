@@ -1,0 +1,26 @@
+{
+  "name": "redux-offline-middleware",
+  "version": "1.0.0",
+  "description": "Effortlessly store your reducer state offline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/taylorc93/redux-offline-middleware.git"
+  },
+  "keywords": [
+    "redux",
+    "offline",
+    "indexedDB",
+    "localforage",
+    "middleware"
+  ],
+  "author": "Connor Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylorc93/redux-offline-middleware/issues"
+  },
+  "homepage": "https://github.com/taylorc93/redux-offline-middleware#readme"
+}
