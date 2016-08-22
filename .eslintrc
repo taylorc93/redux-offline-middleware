@@ -1,0 +1,10 @@
+{
+  "extends": "eslint-config-airbnb",
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "no-use-before-define": [2, "nofunc"],
+    "no-unused-expressions": 0
+  }
+}
